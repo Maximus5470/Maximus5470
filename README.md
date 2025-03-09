@@ -4,19 +4,15 @@
 ---
 
 ### ✨ About Me
-🎯 **Insightful student** with a strong foundation in **web development**, **machine learning**, **deep learning**, and **full-stack (MERN) development**.  
+🎯 **Insightful student** with a strong foundation in **web development**, **machine learning**, **deep learning**, **Cloud Engineering**, and **full-stack (MERN) development**.  
 💡 Passionate about **technology** and **continuous learning**, with hands-on experience in building innovative projects that solve real-world problems.  
 
 ---
 
 ### 🔭 Current Projects
 - 🚀 **I’m currently working on:** [YC Directory](https://www.ycdirectory)  
-- 🧠 **I’m currently learning:** **Next.js** and **Tableau**  
-- 🤝 **Looking to collaborate on:** [Fracture Detection](https://www.fracture)  
-- 💬 **Seeking help with:** [AcademyX](https://www.academyx)  
-- 🌐 **All of my projects:** [Portfolio](https://asdfghj)  
-- 📫 **Reach me at:** **gauthamsharma2005@gmail.com**  
-- ⚡ **Fun Fact:** *Chaos Control 💎*  
+- 🧠 **I’m currently learning:** **AWS** and **Tableau**  
+- 📫 **Reach me at:** **gauthamsharma2005@gmail.com**   
 
 ---
 
