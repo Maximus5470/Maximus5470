@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Current Projects
-- 🚀 **I’m currently working on:** [YC Directory](https://www.ycdirectory)  
+- 🚀 **I’m currently working on:** [[YC Directory](https://www.ycdirectory)  ](https://github.com/Maximus5470/yc_directory_project.git)
 - 🧠 **I’m currently learning:** **AWS** and **Tableau**  
 - 📫 **Reach me at:** **gauthamsharma2005@gmail.com**   
 
