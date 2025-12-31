@@ -4,7 +4,7 @@
 ---
 
 ### ✨ About Me
-🎯 **Insightful student** with a strong foundation in **web development**, **machine learning**, **deep learning**, **Cloud Engineering**, and **full-stack (MERN) development**.  
+🎯 **Insightful student** with a strong foundation in **web development**, **machine learning**, **deep learning**, **Cloud Engineering**, and **full-stack (NextJS) development**.  
 💡 Passionate about **technology** and **continuous learning**, with hands-on experience in building innovative projects that solve real-world problems.  
 
 ---
