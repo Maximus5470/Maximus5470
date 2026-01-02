@@ -10,8 +10,8 @@
 ---
 
 ### 🔭 Current Projects
-- 🚀 **I’m currently working on:** [YC Directory](https://github.com/Maximus5470/yc_directory_project.git)
-- 🧠 **I’m currently learning:** **AWS** and **Tableau**  
+- 🚀 **I’m currently working on:** [OptimusV2](https://github.com/Maximus5470/OptimusV2.git)
+- 🧠 **I’m currently learning:** **AWS Solutions Architect Course**
 - 📫 **Reach me at:** **gauthamsharma2005@gmail.com**   
 
 ---
