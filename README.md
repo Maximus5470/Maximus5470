@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gautham Sharma</h1>
-<h3 align="center">Live and Learn 🚀 | An Insightful Computer Software Enthusiast 💻</h3>
+<h3 align="center">Live and Learn  | An Insightful Computer Software Enthusiast </h3>
 
 ---
 
-### ✨ About Me
-🎯 **Insightful student** with a strong foundation in **web development**, **machine learning**, **deep learning**, **Cloud Engineering**, and **full-stack (NextJS) development**.  
-💡 Passionate about **technology** and **continuous learning**, with hands-on experience in building innovative projects that solve real-world problems.  
+###  About Me
+ **Insightful student** with a strong foundation in **web development**, **machine learning**, **deep learning**, **Cloud Engineering**, and **full-stack (NextJS) development**.  
+ Passionate about **technology** and **continuous learning**, with hands-on experience in building innovative projects that solve real-world problems.  
 
 ---
 
 ### 🔭 Current Projects
-- 🚀 **I’m currently working on:** [OptimusV2](https://github.com/Maximus5470/OptimusV2.git)
+- 🚀 **I’m currently working on:** [OptimusV2](https://github.com/Maximus5470/Vulkan.git)
 - 🧠 **I’m currently learning:** **AWS Solutions Architect Course**
 - 📫 **Reach me at:** **gauthamsharma2005@gmail.com**   
 
