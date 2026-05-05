@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Current Projects
-- 🚀 **I’m currently working on:** [Vulkan](https://github.com/Maximus5470/Vulkan.git)
+- 🚀 **I’m currently working on:** [Automated Data Profiler](https://github.com/Maximus5470/Automated-Data-Profiler.git)
 - 🧠 **I’m currently learning:** **AWS Solutions Architect Course**
 - 📫 **Reach me at:** **gauthamsharma2005@gmail.com**   
 
